@@ -1,1 +1,4 @@
 # Income-Tax-Calculation-Tkinter-
+
+As my project is to develop a ‘Income Tax Calculation system’ for a salaried person using python’s tkinter and basic python language. I choose python because it provide an environment to build good graphical interface which user can easily understand. This project is divided into three students, so every student has to contribute well designed GUI for project. We have divided our work based on different windows. For Example, there are 3 windows then each person will develop one window.
+GUI should be friendly to user, the user must be able to calculate income tax without giving any commands. In our project we have used menu based interface language so user will not face any difficulty to calculate income tax. For this menu based language tkinter is a platform which allows us to built such menu based graphical user interface.
